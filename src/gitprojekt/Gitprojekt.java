@@ -15,7 +15,9 @@ public class Gitprojekt {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println(  );
+        System.out.println( " Sveika Pasaule ");
+        System.out.println( " Sveika Pasaule ");
+        
     }
     
 }
