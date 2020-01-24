@@ -17,6 +17,7 @@ public class Gitprojekt {
     public static void main(String[] args) {
         System.out.println( " Sveika Pasaule ");
         System.out.println( " Sveika Pasaule ");
+        System.out.println( " Sveika Pasaule ");
         
     }
     
